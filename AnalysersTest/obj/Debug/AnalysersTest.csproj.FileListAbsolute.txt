@@ -1,0 +1,8 @@
+S:\Andy\OMRDev\AnalysersTest\AnalysersTest\bin\Debug\AnalysersTest.exe
+S:\Andy\OMRDev\AnalysersTest\AnalysersTest\bin\Debug\AnalysersTest.pdb
+S:\Andy\OMRDev\AnalysersTest\AnalysersTest\obj\Debug\AnalysersTest.csprojResolveAssemblyReference.cache
+S:\Andy\OMRDev\AnalysersTest\AnalysersTest\obj\Debug\AnalysersTest.Form1.resources
+S:\Andy\OMRDev\AnalysersTest\AnalysersTest\obj\Debug\AnalysersTest.Properties.Resources.resources
+S:\Andy\OMRDev\AnalysersTest\AnalysersTest\obj\Debug\AnalysersTest.csproj.GenerateResource.Cache
+S:\Andy\OMRDev\AnalysersTest\AnalysersTest\obj\Debug\AnalysersTest.exe
+S:\Andy\OMRDev\AnalysersTest\AnalysersTest\obj\Debug\AnalysersTest.pdb
