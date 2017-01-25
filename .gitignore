@@ -1,3 +1,5 @@
 .vs
+.suo
 /packages
+/AnalysersTest/bin
 /AnalysersTest/obj
